@@ -20,3 +20,25 @@ E:\School\2014-2015\periode 8\SportsStore\SportsStore\SportsStore.Domain\bin\Deb
 E:\School\2014-2015\periode 8\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
 E:\School\2014-2015\periode 8\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
 E:\School\2014-2015\periode 8\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\School\2014-2015\SportStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+E:\School\2014-2015\SportStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+E:\School\2014-2015\SportStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+E:\School\2014-2015\SportStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+E:\School\2014-2015\SportStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\School\2014-2015\SportStore\SportsStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\School\2014-2015\SportStore\SportsStore.Domain\bin\Debug\System.Web.Helpers.dll
+E:\School\2014-2015\SportStore\SportsStore.Domain\bin\Debug\System.Web.Mvc.dll
+E:\School\2014-2015\SportStore\SportsStore.Domain\bin\Debug\System.Web.Razor.dll
+E:\School\2014-2015\SportStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\School\2014-2015\SportStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.dll
+E:\School\2014-2015\SportStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+E:\School\2014-2015\SportStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+E:\School\2014-2015\SportStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\School\2014-2015\SportStore\SportsStore.Domain\bin\Debug\System.Web.Helpers.xml
+E:\School\2014-2015\SportStore\SportsStore.Domain\bin\Debug\System.Web.Mvc.xml
+E:\School\2014-2015\SportStore\SportsStore.Domain\bin\Debug\System.Web.Razor.xml
+E:\School\2014-2015\SportStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.xml
+E:\School\2014-2015\SportStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\School\2014-2015\SportStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+E:\School\2014-2015\SportStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+E:\School\2014-2015\SportStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
