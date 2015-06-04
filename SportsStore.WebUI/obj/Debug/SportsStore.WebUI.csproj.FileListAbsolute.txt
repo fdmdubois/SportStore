@@ -64,3 +64,36 @@ E:\School\2014-2015\SportStore\SportsStore.WebUI\bin\System.Web.WebPages.Razor.x
 E:\School\2014-2015\SportStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
 E:\School\2014-2015\SportStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
 E:\School\2014-2015\SportStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll.config
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.WebUI\bin\EntityFramework.dll
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.WebUI\bin\Moq.dll
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.WebUI\bin\Ninject.dll
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.WebUI\bin\SportsStore.Domain.dll
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.WebUI\bin\System.Web.WebPages.dll
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.WebUI\bin\WebActivatorEx.dll
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.WebUI\bin\EntityFramework.xml
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.WebUI\bin\Moq.xml
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.WebUI\bin\Ninject.xml
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.WebUI\bin\System.Web.WebPages.xml
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb

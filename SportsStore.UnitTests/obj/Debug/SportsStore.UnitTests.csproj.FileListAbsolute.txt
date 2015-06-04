@@ -66,3 +66,37 @@ E:\School\2014-2015\SportStore\SportsStore.UnitTests\bin\Debug\EntityFramework.x
 E:\School\2014-2015\SportStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.csprojResolveAssemblyReference.cache
 E:\School\2014-2015\SportStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.dll
 E:\School\2014-2015\SportStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.pdb
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll.config
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.pdb
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.UnitTests\bin\Debug\Moq.dll
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.UnitTests\bin\Debug\Ninject.dll
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.UnitTests\bin\Debug\Ninject.Web.Common.dll
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.UnitTests\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.UnitTests\bin\Debug\SportsStore.Domain.dll
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.UnitTests\bin\Debug\SportsStore.WebUI.dll
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.UnitTests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.UnitTests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.UnitTests\bin\Debug\System.Web.Razor.dll
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.UnitTests\bin\Debug\WebActivatorEx.dll
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.UnitTests\bin\Debug\SportsStore.Domain.pdb
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.UnitTests\bin\Debug\SportsStore.WebUI.pdb
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.UnitTests\bin\Debug\Moq.xml
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.UnitTests\bin\Debug\Ninject.xml
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.UnitTests\bin\Debug\Ninject.Web.Common.xml
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.UnitTests\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.UnitTests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.UnitTests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.UnitTests\bin\Debug\System.Web.Razor.xml
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.UnitTests\bin\Debug\EntityFramework.xml
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.dll
+C:\Users\Frans Dubois\Source\Repos\SportStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.pdb
